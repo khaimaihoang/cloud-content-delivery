@@ -1,0 +1,12 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.53f1
+CRC: 2337471226
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_myasset_codes.bundle
+      Dependencies: {}
+    Info_1:
+      Name: assets_myasset_prefabs_cube.bundle
+      Dependencies: {}
